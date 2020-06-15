@@ -89,8 +89,8 @@ describe('instructorHeight', () => {
     expect(instructorHeight('Colin')).toBe(62)
   })
 
-  it(`should return 67 if given the string 'Mesuara'`, () => {
-    expect(instructorHeight('Mesuara')).toBe(67)
+  it(`should return 69 if given the string 'Mesuara'`, () => {
+    expect(instructorHeight('Mesuara')).toBe(69)
   })
   
   it(`should return "I don't know that instructor!" given any other argument.`, () => {
