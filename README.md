@@ -13,6 +13,13 @@ Today you'll be branching to return different results based on the parameters pa
 * `if` and `if-else`.
 
 
+### Workflow
+
+* Fork and clone this repo.
+* Run `jest --watch-all` in a terminal of your choosing (I prefer a full-screen one!).
+* Code away in `main.js` until all your tests are passing.
+
+
 ### Tasks
 
 * Write a function called `isItLong` that returns the string "That's a long string!" if the given string is longer than 20 characters. It should not return anything otherwise. (Explicitly, at least--every function returns `undefined` if you don't `return` a value!)
